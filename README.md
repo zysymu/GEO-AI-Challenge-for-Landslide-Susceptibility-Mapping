@@ -9,7 +9,7 @@ My submission for the competition used the only the official [datasets provided 
 After acquiring and engineering the features, I used a LightGBM model to fit the data, performing a hyperparameter search with Optuna with 5-fold cross-validation to achieve the best performance. After 100 optimization trials, the model achieved an accuracy of 96.82% on the 5-fold cross-validation, leading to a score of 94.67% on the final competition leaderboard, achieving **3rd place**! 
 
 This repository is structured as follows:
-- `main.ipynb`: Jupyter notebook file containing my complete analysis, thoroughly explained. It can be better visualize in the following [nbviewer link](https://nbviewer.org/github/zysymu/GEO-AI-Challenge-for-Landslide-Susceptibility-Mapping/blob/main/main.ipynb).
+- `main.ipynb`: Jupyter notebook file containing my complete analysis, thoroughly explained. It can be better visualized in the following [nbviewer link](https://nbviewer.org/github/zysymu/GEO-AI-Challenge-for-Landslide-Susceptibility-Mapping/blob/main/main.ipynb).
 - `GEO-AI Challenge for Landslide Susceptibility Mapping report.pdf.pdf`: an executive summary explaining the development of my features and model.
 - `predictions.csv`: final predictions used for the competition.
 - `buffer_demonstration.png`: image to demonstrate buffering.
