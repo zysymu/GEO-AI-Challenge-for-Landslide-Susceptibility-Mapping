@@ -1,6 +1,6 @@
 # GEO-AI Challenge for Landslide Susceptibility Mapping by AI for Good ‐ International Telecommunication Union
 
-**This project achieved the 1st place Zindi's [GEO-AI Challenge for Landslide Susceptibility Mapping](https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping/) competition!!!**
+**This project achieved the 1st place on Zindi's [GEO-AI Challenge for Landslide Susceptibility Mapping](https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping/) competition!!!**
 
 This repository contains the code used for my submission for Zindi's [GEO-AI Challenge for Landslide Susceptibility Mapping by ITU](https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping/) competition. The goal of the challenge was to develop an accurate and cost-effective model for landslide susceptibility mapping in the Valtellina Valley region in Italy using machine learning techniques.
 
