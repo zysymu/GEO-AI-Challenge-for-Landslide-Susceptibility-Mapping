@@ -13,7 +13,7 @@ My submission for the competition used the only the official [datasets provided 
 ## Repository structure
 
 - `main.ipynb`: Jupyter notebook file containing my complete analysis, thoroughly explained. I recommend using the following [nbviewer link](https://nbviewer.org/github/zysymu/GEO-AI-Challenge-for-Landslide-Susceptibility-Mapping/blob/main/main.ipynb) to visualize it online.
-- `GEO-AI Challenge for Landslide Susceptibility Mapping report.pdf.pdf`: an executive summary explaining the development of my features and model.
+- `GEO-AI Challenge for Landslide Susceptibility Mapping report.pdf`: an executive summary explaining the development of my features and model.
 - `colorful_100.qgz`: final QGIS susceptibility map, where 1 are areas with very low probability of landslides and 5 are areas with very high probability.
 - `map.png`: picture from the final susceptibility map. Green are areas with very low probability and red are areas with very high probability. The points indicate the location of the test set data.
 - `data`: directory containing all of the data used.
